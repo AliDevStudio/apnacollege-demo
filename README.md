@@ -1,5 +1,5 @@
 # apnacollege-demo
 this is my first git repository
 <br>
-Author-Hassan ali(apnacollege)
-c
+Author-Hassan ali(apna college)
+
